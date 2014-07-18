@@ -1,4 +1,9 @@
-UrlParameterExtract
+Objective-C Url Parameter Extraction
 ===================
 
-Objective-C Url Parameter extraction class
+Usage:
+-------------------
+    NSString* url = @"http://example.com?title=hello";
+    NSString* extractedTitle = [[ExtractParam alloc] initWithUrl:url withParam:@"title"];
+    
+Results in *extractedTitle* = hello.
