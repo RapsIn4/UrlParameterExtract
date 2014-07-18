@@ -1,9 +1,7 @@
 //
 //  ExtractParam.m
-//  Mom's App
 //
 //  Created by Michael Ye on 2014-07-11.
-//  Copyright (c) 2014 IdeaNotion. All rights reserved.
 //
 
 #import "ExtractParam.h"
